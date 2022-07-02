@@ -1,4 +1,8 @@
-Use W-Net to jointly do self-supervised depth estimation and unsupervised segmentation  
+# Use W-Net to jointly do self-supervised depth estimation and unsupervised segmentation  
+W-Net: A Deep Model for Fully Unsupervised Image Segmentation https://arxiv.org/pdf/1711.08506.pdf  
+Digging into Self-Supervised Monocular Depth Prediction https://arxiv.org/abs/1806.01260  
+
+
 RGB Image ---> U-Net ---> Segmentation ---> U-Net ---> Depth Map  
 ![1656745378(1)](https://user-images.githubusercontent.com/42352462/176990441-c69a953a-fbf7-43e0-9e2c-98e54ee8528f.png)  
 
